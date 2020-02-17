@@ -31,7 +31,6 @@ Using web3@1.26 , TypeScript and Redux.
 ## example
 
 
-After set value
 <img width="606" alt="スクリーンショット 2020-02-17 23 00 16" src="https://user-images.githubusercontent.com/29624403/74660347-512edc00-51d9-11ea-8ce6-2deccdc4da6d.png">
 
 
