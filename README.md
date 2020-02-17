@@ -1,7 +1,6 @@
 <h1 align="center">Dapp BoilerPlate
 </h2>
 
-## Description
 Simple boilerplate for Dapp.  
 Using web3@1.26 , TypeScript and Redux.
 
@@ -29,7 +28,7 @@ Using web3@1.26 , TypeScript and Redux.
 
 
 
-#### example
+## example
 
 
 After set value
