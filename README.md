@@ -1,9 +1,11 @@
 <h1 align="center">Dapp BoilerPlate
 </h2>
 
+![qiita](https://user-images.githubusercontent.com/29624403/75884401-14fdab80-5e68-11ea-83a2-b57f26392154.gif)
+
+
 Simple boilerplate for Dapp.  
 Using web3@1.26 , TypeScript and Redux.
-
 
 
 
